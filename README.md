@@ -1,0 +1,1 @@
+# grails_view_index_issue
